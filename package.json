@@ -1,0 +1,13 @@
+{
+  "name": "runaway-of-focus-event",
+  "version": "1.0.0",
+  "description": "focusイベントの暴発チェック",
+  "scripts": {
+    "start": "http-server docs/"
+  },
+  "author": "soarflat",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
